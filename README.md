@@ -1,5 +1,5 @@
 # Birthday Surprise App
-A heartfelt digital surprise to celebrate someone extraordinary on their special day:)
+A heartfelt digital surprise to celebrate someone extraordinary on their special day :)
 
 
 ## Features
@@ -24,7 +24,7 @@ A heartfelt digital surprise to celebrate someone extraordinary on their special
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/birthday-surprise.git
+   git clone https://github.com/Debbylelycaa/Birthday-app.git
     ```
 2.  **Enter project directory:**
     ```bash
